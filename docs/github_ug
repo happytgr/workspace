@@ -1,0 +1,11 @@
+
+1. generate a personal token
+	https://github.com/settings/tokens
+
+2. Copy the token
+
+3. Apply the token:
+ git clone https://<token>@github.com:<usr name>/<repo>.git
+ git remote set-url origin https://<token>@github.com:<usr name>/<repo>.git
+
+
