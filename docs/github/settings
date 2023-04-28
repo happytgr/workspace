@@ -4,4 +4,4 @@ https://github.com/settings/tokens
 
 2. git clone https://<key>@github.com/happytgr/workspace.git/
 
-3. 
+3. git remote set-url https://<usr>:<key>@github.com/happytgr/workspace.git
